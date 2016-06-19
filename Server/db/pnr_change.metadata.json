@@ -1,0 +1,1 @@
+{ "options" : { "create" : "pnr_change", "capped" : false, "autoIndexId" : true }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "pnr.pnr_change", "name" : "_id_" }, { "v" : 1, "key" : { "pnr" : 1, "train" : 1 }, "unique" : true, "ns" : "pnr.pnr_change", "name" : "pnr_1_train_1", "background" : true } ] }
