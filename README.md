@@ -1,8 +1,9 @@
 # BroWait
 
-Intelligently predicts whether a wait-listed train-ticket will be confirmed or now before you book it. 
-
 [![Build Status](https://travis-ci.org/rohinrohin/BroWait.svg?branch=master)](https://travis-ci.org/rohinrohin/BroWait)
+
+*Intelligently predicts whether a wait-listed train-ticket will be confirmed or now before you book it.*
+
 
 BroWait uses an extension for Google Chrome that gives a non intrusive
 interface for users so they can intelligently know whether a
