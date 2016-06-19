@@ -10,7 +10,7 @@ book a ticket. The chrome extension will automatically scrape the
 IRCTC website, to seamlessly display realtime information injected
 into the website.
 
-The Problem:
+**The Problem:**
 The Indian government makes over 700 crores every year in cancellation
 fees. This is due to the immense number of people who book train seats
 who eventually do not end up travelling due to unavailability of
